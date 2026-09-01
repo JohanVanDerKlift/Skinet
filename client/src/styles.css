@@ -7,3 +7,7 @@
 .text-primary {
     @apply text-blue-500;
 }
+
+button.match-input-height {
+    height: 56px !important;
+}
